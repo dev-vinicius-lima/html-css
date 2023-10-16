@@ -1,0 +1,32 @@
+@charset "UTF-8";
+/*
+tudo em html for id = em css # (só pode um elemnto)
+tudo em html for class = em css .
+*/
+
+body{
+    background-color:#68d898ee;
+}
+h1{
+    color: green;
+}
+h2{
+    color:#F58A46;
+}
+h1#principal{
+    text-align: center;
+    background-color:#76F583;
+    color: #F58A46;
+}
+.basico{
+    color: green;
+}
+.intermediario{
+    color: rgb(228, 228, 4);
+}
+.avançado{
+    color: red;
+}
+.destaque{
+    background-color: rgba(188, 188, 35, 0.636);
+}
